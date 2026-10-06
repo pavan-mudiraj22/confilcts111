@@ -1,5 +1,5 @@
 a = 2000
-b = 20
+b = 3
 
 if a > b:
     print("A is larger")
